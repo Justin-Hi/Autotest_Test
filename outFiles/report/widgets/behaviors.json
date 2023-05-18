@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"6b74c42bd09fef0af9d6be3f5241dc88","name":"login","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}},{"uid":"b2ecd542c172960b184581dccac7253a","name":"注销","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
